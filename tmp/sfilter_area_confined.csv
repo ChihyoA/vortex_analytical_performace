@@ -1,3 +1,0 @@
-C,W,T,Registers,L1(Dcache),L2,Mapping,ALUs,occupancy_width,occupancy_depth,total_occupancy,greedy_thruput_desired_depth
-8,2,16,64,32,2,TM,256,1.0,1.0,1.0,39.174
-16,2,8,64,64,2,TM,256,1.0,1.0,1.0,39.174
